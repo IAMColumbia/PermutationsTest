@@ -1,0 +1,15 @@
+C:\Users\PC\src\PermutationsAssignment\bin\Debug\net6.0\PermutationsAssignment.exe
+C:\Users\PC\src\PermutationsAssignment\bin\Debug\net6.0\PermutationsAssignment.deps.json
+C:\Users\PC\src\PermutationsAssignment\bin\Debug\net6.0\PermutationsAssignment.runtimeconfig.json
+C:\Users\PC\src\PermutationsAssignment\bin\Debug\net6.0\PermutationsAssignment.dll
+C:\Users\PC\src\PermutationsAssignment\bin\Debug\net6.0\PermutationsAssignment.pdb
+C:\Users\PC\src\PermutationsAssignment\obj\Debug\net6.0\PermutationsAssignment.csproj.AssemblyReference.cache
+C:\Users\PC\src\PermutationsAssignment\obj\Debug\net6.0\PermutationsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\src\PermutationsAssignment\obj\Debug\net6.0\PermutationsAssignment.AssemblyInfoInputs.cache
+C:\Users\PC\src\PermutationsAssignment\obj\Debug\net6.0\PermutationsAssignment.AssemblyInfo.cs
+C:\Users\PC\src\PermutationsAssignment\obj\Debug\net6.0\PermutationsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\PC\src\PermutationsAssignment\obj\Debug\net6.0\PermutationsAssignment.dll
+C:\Users\PC\src\PermutationsAssignment\obj\Debug\net6.0\refint\PermutationsAssignment.dll
+C:\Users\PC\src\PermutationsAssignment\obj\Debug\net6.0\PermutationsAssignment.pdb
+C:\Users\PC\src\PermutationsAssignment\obj\Debug\net6.0\PermutationsAssignment.genruntimeconfig.cache
+C:\Users\PC\src\PermutationsAssignment\obj\Debug\net6.0\ref\PermutationsAssignment.dll
